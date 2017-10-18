@@ -14,7 +14,7 @@ Practicar los temas de html, css, box model.
 
 ### Herramientas utilizadas
 
-Html5
-CSS
+* Html5
+* CSS
 
 ![recursos](assets/img/bandera2.PNG)
